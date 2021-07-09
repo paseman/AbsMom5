@@ -31,8 +31,10 @@ The reason is clear.  Yahoo data shows a (slight) monthly decrease in SPY while 
 Note also the following discrepancies for 11/29/2019, the Friday after thanksgiving.
 Don's Tbill File
 11/29/2019 12:00 AM	13.8485032869658	13.8485032869658	13.8485032869658	13.8485032869658	0	13.8485032869658	13.8485032869658
+
 Yahoo's IRX history - https://finance.yahoo.com/quote/%5EIRX/history?period1=1561852800&period2=1625011200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 Nov 29, 2019	-	-	-	-	-	-
+
 Norgates IRX history
 20191129	1.553	1.553	1.54	1.54
 
