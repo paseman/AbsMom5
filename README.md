@@ -1,5 +1,6 @@
 # AbsMom5
 #=======================================================================================
+
 Copyright 2006-2021 Paseman & Associates (www.paseman.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
@@ -14,6 +15,7 @@ OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 OR OTHER DEALINGS IN THE SOFTWARE.
 
 #=======================================================================================
+
 compareYND() calculates monthlyAbsMom5 timing signal using 3 different inputs:
 o monthlyAbsMom5Yahoo   - uses SPY and IRX from Yahoo (If panadasbdatareader is down, I use a cached file.)
 o monthlyAbsMom5Norgate - uses SPY and IRX from Norgate (Thanks Don for these files)
