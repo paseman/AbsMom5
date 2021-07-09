@@ -17,8 +17,11 @@ OR OTHER DEALINGS IN THE SOFTWARE.
 #=======================================================================================
 
 compareYND() calculates monthlyAbsMom5 timing signal using 3 different inputs:
+
 o monthlyAbsMom5Yahoo   - uses SPY and IRX from Yahoo (If panadasbdatareader is down, I use a cached file.)
+
 o monthlyAbsMom5Norgate - uses SPY and IRX from Norgate (Thanks Don for these files)
+
 o monthlyAbsMom5Don     - uses SPY and IRX from other files supplied by Don
 
 compareYND() runs all three, concatenates them and compares the pairwise Buy/Sell Signals  between norgate/yahoo and norgate/don
