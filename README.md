@@ -1,5 +1,5 @@
 # AbsMom5
-#=======================================================================================
+#====================================================================================
 
 Copyright 2006-2021 Paseman & Associates (www.paseman.com)
 
@@ -14,7 +14,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTH
 OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
 OR OTHER DEALINGS IN THE SOFTWARE.
 
-#=======================================================================================
+#====================================================================================
 
 compareYND() calculates monthlyAbsMom5 timing signal using 3 different inputs:
 
